@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "826402353863",
+    "firebase_url": "https://ggg-cycles.firebaseio.com",
+    "project_id": "ggg-cycles",
+    "storage_bucket": "ggg-cycles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826402353863:android:26cc429d4589c5c99584e2",
+        "android_client_info": {
+          "package_name": "com.gggCycles.Register"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826402353863-gv8buqjg2f3vag1nspl2lqv923kv179p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYzEAK2rJtJncegdhDNmsxQi0jsWompb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826402353863-gv8buqjg2f3vag1nspl2lqv923kv179p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "826402353863-t1kel23iei7sa2sum5j5medgv4glaiqs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gggCycles.Register"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826402353863:android:a1172c3cbde54aae9584e2",
+        "android_client_info": {
+          "package_name": "com.gggCycles.Register"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826402353863-gv8buqjg2f3vag1nspl2lqv923kv179p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYzEAK2rJtJncegdhDNmsxQi0jsWompb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826402353863-gv8buqjg2f3vag1nspl2lqv923kv179p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "826402353863-t1kel23iei7sa2sum5j5medgv4glaiqs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gggCycles.Register"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
